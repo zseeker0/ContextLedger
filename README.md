@@ -4,9 +4,9 @@
 
 GPL-3.0 licensed. Python 3.11+. 93 tests passing. CLI, REST API, and MCP server included.
 
-[![Tests](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/tests.yml/badge.svg)](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/tests.yml)
-[![CodeQL](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/codeql.yml/badge.svg)](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/codeql.yml)
-[![Lint](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/lint.yml/badge.svg)](https://github.com/MohamedHussien-zseeker/ContextLedger/actions/workflows/lint.yml)
+[![Tests](https://github.com/zseeker0/ContextLedger/actions/workflows/tests.yml/badge.svg)](https://github.com/zseeker0/ContextLedger/actions/workflows/tests.yml)
+[![CodeQL](https://github.com/zseeker0/ContextLedger/actions/workflows/codeql.yml/badge.svg)](https://github.com/zseeker0/ContextLedger/actions/workflows/codeql.yml)
+[![Lint](https://github.com/zseeker0/ContextLedger/actions/workflows/lint.yml/badge.svg)](https://github.com/zseeker0/ContextLedger/actions/workflows/lint.yml)
 
 Local-first, human-editable memory infrastructure for AI agents. Searchable, inspectable, versionable project knowledge that survives across sessions and assistants.
 
@@ -19,7 +19,7 @@ Local-first, human-editable memory infrastructure for AI agents. Searchable, ins
 ## Quick Install
 
 ```bash
-git clone https://github.com/MohamedHussien-zseeker/ContextLedger.git
+git clone https://github.com/zseeker0/ContextLedger.git
 cd ContextLedger
 ./install.sh
 ```
